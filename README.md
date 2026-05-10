@@ -7,7 +7,7 @@ CyberShield is a secure, end-to-end encrypted cybercrime reporting system design
 **Three Distinct Portals:**
 * **Citizen Portal:** Secure interface for victims to register, report incidents, and upload digital evidence.
 * **Police Portal:** Advanced tools for law enforcement to review cases, analyze evidence, and update investigation statuses.
-* **Admin Portal:** Comprehensive system oversight, including user role management and activity monitoring.
+* **Admin Portal:** Comprehensive system oversight, including user role management and activity monitoring.     
 * **Authentication:** Secure role-based access control (RBAC) ensuring data privacy across all user levels.
 * **Digital Evidence Vault:** Encrypted storage for images, documents, and logs related to cybercrime cases.
 * **Real-time Tracking:** Live status updates and case progression tracking for citizens and investigating officers.
